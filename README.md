@@ -1,7 +1,7 @@
 # HLA-ClassI-Tumorigenesis
 ![](https://i.imgur.com/552qtze.png)
 
- HLA-I is an important factor in killing tumor cells along with CD8+ T cells. CD8+ T cells recognize and kill tumor cells with HLA-I tumor antigens in early tumorigenesis, the efficiency of which differs according to antigen recognition coverage. We assessed the tumor type- and driver mutation-specificity in the association between tumor onset age and HLA-I zygosity. 
+ HLA-I is an important molecule in killing tumor cells along with CD8+ T cells. CD8+ T cells recognize and kill tumor cells with HLA-I tumor antigens in early tumorigenesis, the efficiency of which differs according to antigen recognition coverage. We assessed the tumor type- and driver mutation-specificity in the association between tumor onset age and HLA-I zygosity. 
 
 <br/>
 
@@ -31,7 +31,7 @@ The Cancer Genome Atlas (TCGA) is a dataset that includes large-scale genome seq
 ###  ICGC dataset
 The International Cancer Genome Consortium (ICGC) provides genomic raw and analyze data from 50 different cancer types. Controlled data can be requested through The Data Access Compliance Office (DACO).
 
-To Validate the effect of VHL loss, a RECA-EU cohort with known histology type(`8310/3`) was used.
+To Validate the effect of VHL loss, a RECA-EU cohort with histology type(`8310/3`) was used.
 
 <br/>
 
